@@ -1,3 +1,4 @@
+-- Discord: gabebomb | Roblox: VolkiGabe
 local Players = game:GetService("Players")
 local DataStoreService = game:GetService("DataStoreService")
 local Workspace = game:GetService("Workspace")
